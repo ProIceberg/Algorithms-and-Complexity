@@ -1,0 +1,11 @@
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.exe
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.deps.json
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.runtimeconfig.json
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.runtimeconfig.dev.json
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.dll
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\bin\Debug\netcoreapp3.1\Algorithms and Complexity.pdb
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\obj\Debug\netcoreapp3.1\Algorithms and Complexity.csprojAssemblyReference.cache
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\obj\Debug\netcoreapp3.1\Algorithms and Complexity.AssemblyInfoInputs.cache
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\obj\Debug\netcoreapp3.1\Algorithms and Complexity.AssemblyInfo.cs
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\obj\Debug\netcoreapp3.1\Algorithms and Complexity.dll
+C:\Users\hardc\source\repos\Algorithms and Complexity\Algorithms and Complexity\obj\Debug\netcoreapp3.1\Algorithms and Complexity.pdb
